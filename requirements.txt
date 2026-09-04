@@ -1,0 +1,8 @@
+# PyTorch 2.2 的 macOS wheel 使用 NumPy 1.x ABI；上界保证双向转换可用。
+numpy>=1.26,<2
+torch>=2.2
+matplotlib>=3.8
+pytest>=8.0
+jupyter>=1.0
+nbformat>=5.10
+nbclient>=0.10
